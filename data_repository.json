@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "darjas": {
     "darja_1": {
       "id": 1,
@@ -25,11 +25,7 @@
       ],
       "guide_books": [
         { "id": 1, "name_ur": "شرح نحو میر", "name_en": "Sharh Nahw Mir", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TanveerUrduSharhNahwmeer.pdf", "size": 10.2 },
-        { "id": 2, "name_ur": "شرح میزان الصرف", "name_en": "Sharh Mizan ul Sarf", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/MaarifUsSarfUrduSharhIrshadUsSarf.pdf", "size": 8.5 },
-        { "id": 3, "name_ur": "شرح ارشاد الصرف", "name_en": "Sharh Irshad ul Sarf", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AnwaarUsSarfUrduSharhIrshadUsSarf.pdf", "size": 7.3 },
-        { "id": 4, "name_ur": "حاشیہ نحو میر", "name_en": "Hashiya Nahw Mir", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/BADR%20E%20MUNEER%20URDU%20SHAR%20NAHWMEER.pdf", "size": 6.1 },
-        { "id": 5, "name_ur": "شرح المنهاج", "name_en": "Sharh Al Minhaj", "url": "https://archive.org/download/20230311_20230311_1810/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%81%D9%82%D9%87%20%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D8%A1/%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC_%D9%81%D9%8A_%D8%A7%D9%84%D9%81%D9%82%D9%87_%D8%AC_%D9%A1_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D8%A1.pdf", "size": 9.4 }
-      ]
+        ]
     },
     "darja_2": {
       "id": 2,
