@@ -24,7 +24,12 @@
         { "id": 15, "name_ur": "الطريقة العصريه جلد دوم", "name_en": "Tayseer ul Mubtadi", "url": "https://archive.org/download/278651259/278651259-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D8%AD%D9%88.pdf", "size": 3.6 }
       ],
       "guide_books": [
-        ]
+        { "id": 1, "name_ur": "شرح نحو میر", "name_en": "Sharh Nahw Mir", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TanveerUrduSharhNahwmeer.pdf", "size": 10.2 },
+        { "id": 2, "name_ur": "شرح میزان الصرف", "name_en": "Sharh Mizan ul Sarf", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/MaarifUsSarfUrduSharhIrshadUsSarf.pdf", "size": 8.5 },
+        { "id": 3, "name_ur": "شرح ارشاد الصرف", "name_en": "Sharh Irshad ul Sarf", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AnwaarUsSarfUrduSharhIrshadUsSarf.pdf", "size": 7.3 },
+        { "id": 4, "name_ur": "حاشیہ نحو میر", "name_en": "Hashiya Nahw Mir", "url": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/BADR%20E%20MUNEER%20URDU%20SHAR%20NAHWMEER.pdf", "size": 6.1 },
+        { "id": 5, "name_ur": "شرح المنهاج", "name_en": "Sharh Al Minhaj", "url": "https://archive.org/download/20230311_20230311_1810/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%81%D9%82%D9%87%20%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D8%A1/%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC_%D9%81%D9%8A_%D8%A7%D9%84%D9%81%D9%82%D9%87_%D8%AC_%D9%A1_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D8%A1.pdf", "size": 9.4 }
+      ]
     },
     "darja_2": {
       "id": 2,
@@ -32,7 +37,15 @@
       "name_ur": "درجہ ثانیہ",
       "color": "0xFF10B981",
       "books": [
-         { "id": 9, "name_ur": "مرقاة", "name_en": "Mirqat", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMirqatAlBushraColor.pdf", "size": 4.3 }
+        { "id": 1, "name_ur": "فوائد مكيه (تجويد)", "name_en": "Fawaid Makkiya", "url": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/FawaidEMakkiyahAlBushraColor.pdf", "size": 5.8 },
+        { "id": 2, "name_ur": "القراءة الراشده (جلد اول)", "name_en": "Al Qiraah Al Rashida", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AL_QIRAAT_AL_RASHIDAH.pdf", "size": 7.2 },
+        { "id": 3, "name_ur": "معلم الانشاء (جلد اول)", "name_en": "Moallim ul Insha", "url": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MuallimUlInshaVol1.pdf", "size": 8.9 },
+        { "id": 4, "name_ur": "زاد الطالبين (کامل)", "name_en": "Zad ul Talibeen", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ZadUlTalibeenAlBushraColor.pdf", "size": 12.1 },
+        { "id": 5, "name_ur": "مختصر القدورى", "name_en": "Mukhtasar ul Quduri", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf", "size": 9.4 },
+        { "id": 6, "name_ur": "علم الصيغه مع خاصيات ابواب", "name_en": "Ilm ul Seegh", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IlmUsSeghaAlBushraColor.pdf", "size": 6.7 },
+        { "id": 7, "name_ur": "بداية النحو (کامل)", "name_en": "Bidayat ul Nahw", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/HidayaTunNahwAlBushraColor.pdf", "size": 11.3 },
+        { "id": 8, "name_ur": "تيسير المنطق", "name_en": "Tayseer ul Mantiq", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TaiseerUlMantiqAlBushraColor.pdf", "size": 5.6 },
+        { "id": 9, "name_ur": "مرقاة", "name_en": "Mirqat", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMirqatAlBushraColor.pdf", "size": 4.3 }
       ],
       "guide_books": [
         { "id": 1, "name_ur": "شرح مختصر القدوری", "name_en": "Sharh Mukhtasar Quduri", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf", "size": 14.2 },
@@ -47,9 +60,21 @@
       "name_ur": "درجہ ثالثہ",
       "color": "0xFF3B82F6",
       "books": [
+        { "id": 1, "name_ur": "رياز الصالحين", "name_en": "Riyadh ul Saliheen", "url": "https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf", "size": 18.4 },
+        { "id": 2, "name_ur": "مختصر القدورى", "name_en": "Mukhtasar ul Quduri", "url": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf", "size": 9.4 },
+        { "id": 3, "name_ur": "اصول الشاشى", "name_en": "Usool ul Shashi", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiAlBushraColor.pdf", "size": 6.2 },
+        { "id": 4, "name_ur": "مبادى الاصول", "name_en": "Mabadi ul Usool", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MABADI_AL_USOOL.pdf", "size": 4.8 },
+        { "id": 5, "name_ur": "کافيه", "name_en": "Kafiya", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahAlBushraColor.pdf", "size": 7.9 },
+        { "id": 6, "name_ur": "شرح تهذيب", "name_en": "Sharh Tahzib", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SharhTahzeebAlBushraColor.pdf", "size": 11.2 },
+        { "id": 7, "name_ur": "متن عقيدة الطحاويه", "name_en": "Matn Aqida Tahawiya", "url": "https://archive.org/download/DarjaAlSadisa6thYear/MatanUlAqedaTitTahavi-AlBushraColo.pdf", "size": 3.5 },
+        { "id": 8, "name_ur": "نفحة العرب", "name_en": "Nafhat ul Arab", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulArabAlBushraColor.pdf", "size": 8.6 },
+        { "id": 9, "name_ur": "معلم الانشاء (جز ثانى)", "name_en": "Moallim ul Insha Part 2", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AshrafUlInshaUrduSharhMuallimUlInsha2.pdf", "size": 9.3 }
       ],
       "guide_books": [
-         { "id": 4, "name_ur": "حاشیہ شرح تہذیب", "name_en": "Hashiya Sharh Tahzib", "url": "https://archive.org/download/TanveerUlTahzeebSharahSharahTahzeeb/Tanveer%20ul%20Tahzeeb%20Sharah%20Sharah%20Tahzeeb%20.pdf", "size": 10.2 }
+        { "id": 1, "name_ur": "شرح اصول الشاشی", "name_en": "Sharh Usool ul Shashi", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AjmalUlHawashiUrduSharhUsoolUshShashi.pdf", "size": 12.5 },
+        { "id": 2, "name_ur": "شرح کافیہ", "name_en": "Sharh Kafiya", "url": "https://archive.org/download/darsenizamidarjasalsa3rdyear2/WAFIA_SHARH_KAFIA.pdf", "size": 14.8 },
+        { "id": 3, "name_ur": "شرح عقیدہ طحاویہ", "name_en": "Sharh Aqida Tahawiya", "url": "https://archive.org/download/sharah-aqeedah-tahaviya-urdu-aur-ibn-e-abi-aleez-pr-aik-tahqeeqi-nazar/SHARAH%20AQEEDAH%20TAHAVIYA%20URDU%20-%20AUR%20%20-%20IBN%20E%20ABI%20AL%20EEZ%20PR%20AIK%20TAHQEEQI%20NAZAR.pdf", "size": 8.9 },
+        { "id": 4, "name_ur": "حاشیہ شرح تہذیب", "name_en": "Hashiya Sharh Tahzib", "url": "https://archive.org/download/TanveerUlTahzeebSharahSharahTahzeeb/Tanveer%20ul%20Tahzeeb%20Sharah%20Sharah%20Tahzeeb%20.pdf", "size": 10.2 }
       ]
     },
     "darja_4": {
@@ -58,9 +83,21 @@
       "name_ur": "درجہ رابعہ",
       "color": "0xFF8B5CF6",
       "books": [
-         { "id": 9, "name_ur": "قطبى", "name_en": "Qutbi", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlQutbiAlBushraColor.pdf", "size": 6.1 }
+        { "id": 1, "name_ur": "رياز الصالحين", "name_en": "Riyadh ul Saliheen", "url": "https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf", "size": 18.4 },
+        { "id": 2, "name_ur": "كنز الدقائق", "name_en": "Kanz ul Daqaiq", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KanzUlDaqaiqVol1AlBushraColor.pdf", "size": 13.7 },
+        { "id": 3, "name_ur": "نور الانوار", "name_en": "Noor ul Anwar", "url": "https://archive.org/download/NOORULANWAAR/NOOR%20UL%20ANWAAR%20RAHMANIA.pdf", "size": 10.4 },
+        { "id": 4, "name_ur": "شرح جامى", "name_en": "Sharh Jami", "url": "https://archive.org/download/SHARHJAMI/SharhMullaJamiAlBushraColor.pdf", "size": 8.9 },
+        { "id": 5, "name_ur": "مقامات حريرى (دس مقامے)", "name_en": "Maqamat Hariri", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlMaqamatUlHareriyahAlBushraColor.pdf", "size": 11.2 },
+        { "id": 6, "name_ur": "معلم الانشاء (جلد ثالث)", "name_en": "Moallim ul Insha Part 3", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MuallimUlInshaVol3.pdf", "size": 9.8 },
+        { "id": 7, "name_ur": "دروس البلاغه", "name_en": "Durus ul Balagha", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/DurosUlBalaghaAlBushraColor.pdf", "size": 7.6 },
+        { "id": 8, "name_ur": "البلاغة الواضحه", "name_en": "Al Balagha Al Waziha", "url": "https://archive.org/download/Heliopolis1957_gmail_20180525_0206/%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%BA%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D8%B6%D8%AD%D8%A9.pdf", "size": 8.3 },
+        { "id": 9, "name_ur": "قطبى", "name_en": "Qutbi", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlQutbiAlBushraColor.pdf", "size": 6.1 }
       ],
       "guide_books": [
+        { "id": 1, "name_ur": "شرح کنز الدقائق", "name_en": "Sharh Kanz ul Daqaiq", "url": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAYSIR_UL_HAQAIQ_ARABIC_SHARH_KANZ.pdf", "size": 18.9 },
+        { "id": 2, "name_ur": "شرح نور الانوار", "name_en": "Sharh Noor ul Anwar", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KhulasatUlAnwarUrduSharhNoorUlAnwar.pdf", "size": 12.4 },
+        { "id": 3, "name_ur": "شرح جامی کا حاشیہ", "name_en": "Hashiya Sharh Jami", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KhulasatUlJamiUrduSharhSharhUlJami.pdf", "size": 9.7 },
+        { "id": 4, "name_ur": "شرح قطبی", "name_en": "Sharh Qutbi", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KHULAS_E_QUTBI.pdf", "size": 7.8 },
         { "id": 5, "name_ur": "شرح دروس البلاغہ", "name_en": "Sharh Durus ul Balagha", "url": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MiftahUlBalaghaUrduSharhDuroosUlBalagha.pdf", "size": 10.1 }
       ]
     },
@@ -70,7 +107,15 @@
       "name_ur": "درجہ خامسہ",
       "color": "0xFFF59E0B",
       "books": [
-              { "id": 9, "name_ur": "ديوان متنبى", "name_en": "Diwan Mutanabbi", "url": "https://archive.org/download/DEWANULMUTANABBI/DEWAN%20UL%20MUTANABBI%20MEER%20MUHAMMAD%20-%20Unknown.pdf", "size": 9.1 },
+        { "id": 1, "name_ur": "آثار السنن", "name_en": "Asar ul Sunan", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AasaarUsSunanAlBushraColor.pdf", "size": 14.2 },
+        { "id": 2, "name_ur": "بدايه (جلد اول)", "name_en": "Bidaya (Vol 1)", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf", "size": 19.8 },
+        { "id": 3, "name_ur": "حسامى", "name_en": "Husami", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MuntakhabUlHusamiAlBushraColor.pdf", "size": 8.4 },
+        { "id": 4, "name_ur": "نور الانوار (باپ قياس سے آخر تک)", "name_en": "Noor ul Anwar (Qiyas)", "url": "https://archive.org/download/NOORULANWAAR/NOOR%20UL%20ANWAAR%20RAHMANIA.pdf", "size": 6.9 },
+        { "id": 5, "name_ur": "مختصر المعانى (مکمل)", "name_en": "Mukhtasar ul Maani", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MukhtasarUlMaaniVol1AlBushraColor.pdf", "size": 12.7 },
+        { "id": 6, "name_ur": "الانتبابات المفيده", "name_en": "Al Intibabat ul Mufida", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlIntebahaatUlMufedahAlBushraColor.pdf", "size": 5.3 },
+        { "id": 7, "name_ur": "معين الفلسفه", "name_en": "Moin ul Falsafa", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MueenUlFalsafaAlBushraColor.pdf", "size": 7.6 },
+        { "id": 8, "name_ur": "شرح عقيدة الطحاويه (للعلامه البابرتى)", "name_en": "Sharh Aqida Tahawiya", "url": "https://archive.org/download/20210728_20210728_1916/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%A7%D9%88%D9%8A%D8%A9%20-%20%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%B1%D8%AA%D9%8A%20-%20%D8%AA%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%87%D8%A7%D8%AF%D9%8A%20%D8%B4%D9%86%D8%A7%D8%B1%20-%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%88%D8%AA%D9%8A.pdf", "size": 16.4 },
+        { "id": 9, "name_ur": "ديوان متنبى", "name_en": "Diwan Mutanabbi", "url": "https://archive.org/download/DEWANULMUTANABBI/DEWAN%20UL%20MUTANABBI%20MEER%20MUHAMMAD%20-%20Unknown.pdf", "size": 9.1 },
         { "id": 10, "name_ur": "سبعه معلقات", "name_en": "Saba Muallaqat", "url": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlMuallaqatUlSabaAlBushraColor.pdf", "size": 7.3 }
       ],
       "guide_books": [
@@ -87,7 +132,18 @@
       "color": "0xFFEC4899",
       "books": [
         { "id": 1, "name_ur": "تفسير جلالين (مکمل)", "name_en": "Tafseer Jalalayn", "url": "https://archive.org/download/AlSadisah6thYear1/TafseerUlJalalainVol1AlBushraColor.pdf", "size": 28.6 },
-               { "id": 13, "name_ur": "متن الکافى", "name_en": "Matn ul Kafi", "url": "https://archive.org/download/AlSadisah6thYear1/MatanUlKafiAlBushraColor.pdf", "size": 7.8 }
+        { "id": 2, "name_ur": "الفوز الكبير", "name_en": "Al Fawz ul Kabeer", "url": "https://archive.org/download/AlSadisah6thYear1/AlFaozUlKabeerAlBushraColor.pdf", "size": 8.4 },
+        { "id": 3, "name_ur": "خير الاصول", "name_en": "Khair ul Usool", "url": "https://archive.org/download/AlSadisah6thYear1/KHAIR_UL_USOOL.pdf", "size": 7.2 },
+        { "id": 4, "name_ur": "سراجى (فى الميراث)", "name_en": "Siraji (Fil Mirath)", "url": "https://archive.org/download/AlSadisah6thYear1/AlSirajiFilMerasAlBushraColor.pdf", "size": 5.8 },
+        { "id": 5, "name_ur": "كتاب الآثار (امام محمد)", "name_en": "Kitab ul Asar", "url": "https://archive.org/download/athar_alshibany/athar_alshibany.pdf", "size": 12.3 },
+        { "id": 6, "name_ur": "تسهيل الميراث", "name_en": "Tasheel ul Mirath", "url": "https://archive.org/download/20231026_20231026_1245/%D8%AA%D8%B3%D9%87%D9%8A%D9%84%20%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%A6%D8%B6%20-%20%D8%A7%D8%A8%D9%86%20%D8%B9%D8%AB%D9%8A%D9%85%D9%8A%D9%86.pdf", "size": 6.7 },
+        { "id": 7, "name_ur": "بدايه (جلد ثانى)", "name_en": "Bidaya (Vol 2)", "url": "https://archive.org/download/AlSadisah6thYear1/AlHidayahVol3AlBushraColor.pdf", "size": 21.4 },
+        { "id": 8, "name_ur": "التوضيح والتلويح", "name_en": "Al Tawzeeh wal Talweeh", "url": "https://archive.org/download/AlTaozeehWatTalweeh/AL%20TAOZEEH%20WAT%20TALWEEH%20VOL%201-%20QADEMI.pdf", "size": 17.9 },
+        { "id": 9, "name_ur": "شرح عقائد النسفيه", "name_en": "Sharh Aqaid Nasafiya", "url": "https://archive.org/download/AlSadisah6thYear1/SHARHUL_AQAID_COLOR.pdf", "size": 9.6 },
+        { "id": 10, "name_ur": "علماء ديوبند کا دينى رخ اور مسلکى مزاج", "name_en": "Ulama Deoband Ka Dini Rukh", "url": "https://archive.org/download/20231128_20231128_0941/%D8%B9%D9%84%D9%85%D8%A7%D8%A1%D9%90_%D8%AF%DB%8C%D9%88%D8%A8%D9%86%D8%AF_%D8%A7%D9%88_%D8%A7%D9%86_%DA%A9%D8%A7_%D9%85%D8%B3%D9%84%DA%A9%DB%8C_%D9%85%D8%B2%D8%A7%D8%AC.pdf", "size": 11.2 },
+        { "id": 11, "name_ur": "درس فلکيات", "name_en": "Dars Falakiyat", "url": "https://archive.org/download/DarjaAlSadisa6thYear/FahmUlFalkiat-DarUlUloom.pdf", "size": 8.1 },
+        { "id": 12, "name_ur": "ديوان الحماسه", "name_en": "Diwan ul Hamasa", "url": "https://archive.org/download/AlSadisah6thYear1/DewanUlHamasahAlBushraColor.pdf", "size": 14.3 },
+        { "id": 13, "name_ur": "متن الکافى", "name_en": "Matn ul Kafi", "url": "https://archive.org/download/AlSadisah6thYear1/MatanUlKafiAlBushraColor.pdf", "size": 7.8 }
       ],
       "guide_books": [
         { "id": 1, "name_ur": "شرح تفسیر جلالین", "name_en": "Sharh Tafseer Jalalayn", "url": "https://archive.org/download/AlSadisah6thYear1/TafseerEJamalainVol01.pdf", "size": 32.5 },
@@ -106,7 +162,12 @@
         { "id": 1, "name_ur": "التبيان فى علوم القرآن", "name_en": "Al Tibyan fi Uloom ul Quran", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlTibyanAlBushraColor.pdf", "size": 16.8 },
         { "id": 2, "name_ur": "تيسير مصطلح الحديث", "name_en": "Tayseer Mustalah ul Hadith", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TaiseerEMustalahUlHadithAlBushraColor.pdf", "size": 9.4 },
         { "id": 3, "name_ur": "شرح نخبة الفكر", "name_en": "Sharh Nukhbat ul Fikr", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SharahNukhbaTulFikrAlBushraColor.pdf", "size": 11.2 },
-       { "id": 9, "name_ur": "بدايه (جلد رابع)", "name_en": "Bidaya (Vol 4)", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushraColor.pdf", "size": 19.8 }
+        { "id": 4, "name_ur": "آئينه قاديانيت", "name_en": "Aaina Qadiyaniyat", "url": "https://archive.org/download/Aaina-e-Qadiyaniat-109751/Aaina-e-Qadiyaniat-109751-WQB.pdf", "size": 7.6 },
+        { "id": 5, "name_ur": "تفسير بيضاوى (ربع پاره اول)", "name_en": "Tafseer Baydawi", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushraColor.pdf", "size": 56.07 },
+        { "id": 6, "name_ur": "مشکوٰة المصابيح (جلد اول)", "name_en": "Mishkat ul Masabih Vol 1", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol1AlBushraColor.pdf", "size": 24.7 },
+        { "id": 7, "name_ur": "مشکوٰة المصابيح (جلد دوم)", "name_en": "Mishkat ul Masabih Vol 2", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol2AlBushraColor.pdf", "size": 23.9 },
+        { "id": 8, "name_ur": "بدايه (جلد ثالث)", "name_en": "Bidaya (Vol 3)", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushraColor.pdf", "size": 20.4 },
+        { "id": 9, "name_ur": "بدايه (جلد رابع)", "name_en": "Bidaya (Vol 4)", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushraColor.pdf", "size": 19.8 }
       ],
       "guide_books": [
         { "id": 1, "name_ur": "شرح مشکوٰۃ المصابیح", "name_en": "Sharh Mishkat ul Masabih", "url": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TOHFA_TUL_MIRAT_DUROOS_MISHKAT.pdf", "size": 45.2 },
@@ -121,13 +182,23 @@
       "name_ur": "دورہ حدیث",
       "color": "0xFFEF4444",
       "books": [
-          { "id": 7, "name_ur": "شمائل ترمذى (مکمل)", "name_en": "Shamail Tirmizi", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHAMAIL-E-TIRMEZI-AL-BUSHRA-COLOR.pdf", "size": 18.4 },
+        { "id": 1, "name_ur": "صحيح بخارى", "name_en": "Sahih Bukhari", "url": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf", "size": 68.4 },
+        { "id": 2, "name_ur": "صحيح مسلم", "name_en": "Sahih Muslim", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL-SAHI-LI-MUSLIM-VOL-01-AL-BUSHRA-COLOR.pdf", "size": 52.7 },
+        { "id": 3, "name_ur": "جامع الترمذى", "name_en": "Jami ul Tirmizi", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/JAMI_AL_TIRMIZI_BUSHRA_VOL_01.pdf", "size": 41.3 },
+        { "id": 4, "name_ur": "سنن ابى داؤد", "name_en": "Sunan Abu Dawud", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-MEER-MUHAMMAD.pdf", "size": 38.9 },
+        { "id": 5, "name_ur": "سنن نسائى", "name_en": "Sunan Nasai", "url": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SUNAN_AL_NASAI_RAHMANIA_VOL_01.pdf", "size": 36.2 },
+        { "id": 6, "name_ur": "سنن ابن ماجه", "name_en": "Sunan Ibn Majah", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-IBN-E-MAJA-RAHMANIA.pdf", "size": 33.8 },
+        { "id": 7, "name_ur": "شمائل ترمذى (مکمل)", "name_en": "Shamail Tirmizi", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHAMAIL-E-TIRMEZI-AL-BUSHRA-COLOR.pdf", "size": 18.4 },
         { "id": 8, "name_ur": "مؤطا امام مالک", "name_en": "Muwatta Imam Malik", "url": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MUATT_IMAM_MALIK_RAHMANIA.pdf", "size": 29.6 },
         { "id": 9, "name_ur": "مؤطا امام محمد", "name_en": "Muwatta Imam Muhammad", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlMuattaLilImamMuhammadVol1AlBushraColor.pdf", "size": 27.3 },
         { "id": 10, "name_ur": "سنن طحاوى", "name_en": "Sunan Tahawe", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHARH-MAANI-UL-AASAAR-VOL-1-RAHMANIA.pdf", "size": 44.1 }
       ],
       "guide_books": [
-     { "id": 5, "name_ur": "انجاز الحاجۃ شرح ابن ماجہ", "name_en": "Injaz ul Haja", "url": "https://archive.org/download/enjazalhajah1/EnjazAlhajah-1.pdf", "size": 68.9 },
+        { "id": 1, "name_ur": "فتح الباری شرح صحیح بخاری", "name_en": "Fath ul Bari", "url": "https://archive.org/download/8_20200602_202006/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%281%29.pdf", "size": 125.4 },
+        { "id": 2, "name_ur": "شرح صحیح مسلم للنووی", "name_en": "Sharh Sahih Muslim Nawawi", "url": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TOHFATUL_MUNIM_SHARH_SAHIH_MUSLIM_01.pdf", "size": 98.7 },
+        { "id": 3, "name_ur": "عارضۃ الاحوذی شرح ترمذی", "name_en": "Ariza ul Ahwazi", "url": "https://archive.org/download/aarza-tul-hawzi-bisharah-sahi-al-tirmizi/02_35432.pdf", "size": 76.2 },
+        { "id": 4, "name_ur": "بذل المجہود شرح ابی داؤد", "name_en": "Bazl ul Majhood", "url": "https://archive.org/download/BazlulMajhoodNadwi/BathlMAjhood_1.pdf", "size": 82.5 },
+        { "id": 5, "name_ur": "انجاز الحاجۃ شرح ابن ماجہ", "name_en": "Injaz ul Haja", "url": "https://archive.org/download/enjazalhajah1/EnjazAlhajah-1.pdf", "size": 68.9 },
         { "id": 6, "name_ur": "اوجز المسالک شرح مؤطا مالک", "name_en": "Awjaz ul Masalik", "url": "https://archive.org/download/ahmedmadi81_gmail_09/01.pdf", "size": 91.3 }
       ]
     }
